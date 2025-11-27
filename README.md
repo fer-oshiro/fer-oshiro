@@ -5,7 +5,6 @@
   <p>Desenvolvedora Front-end · React · Next.js · TypeScript · AWS</p>
 
   <a href="https://linkedin.com/in/fernanda-oshiro" target="_blank">LinkedIn</a> • 
-  <a href="https://portfolio.charmcodez.com/" target="_blank">Portfolio</a> • 
   <a href="https://github.com/fer-oshiro" target="_blank">GitHub</a>
 </div>
 
